@@ -13,6 +13,7 @@ Live demo: https://frontend-task-sigma.vercel.app/
 - NextJS with Typescript
 - Chakra UI for components and styling
 - useSWR for data fetching
+- React hook form for login form handling
 
 ## Features
 - Middleware that redirects to login for unauthenticated users
