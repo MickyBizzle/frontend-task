@@ -1,6 +1,7 @@
 # Frontend coding task
 
 Time taken: Approx. 1 day
+
 Live demo: https://frontend-task-sigma.vercel.app/
 
 ## Running locally
